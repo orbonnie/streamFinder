@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import Filter from "./Filter.jsx";
 
 const FilterList = (props) => {
 

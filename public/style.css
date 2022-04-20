@@ -775,6 +775,9 @@ EDIT_USER
 }
 
 #update-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
   color:rgba(0, 0, 0, 1);
 }
 
